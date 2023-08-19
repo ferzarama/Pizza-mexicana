@@ -8,4 +8,4 @@ Confirma tu pedido
 Realiza el pago
 Espera la entrega
 Recibe tu pedido
-Disfruta tu pizza<
+Disfruta tu pizza
