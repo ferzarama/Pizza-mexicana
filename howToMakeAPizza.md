@@ -6,4 +6,4 @@ Empaquetado de la pizza
    2. Grande: 35 x 35 x 4 cm.
    3. Familiar: 40 x 40 x 4 cm.
    4. Jumbo: 45 x 45 x 4 cm.
-3. Sellar la caja con cinta adherente y entregar a delivery
+3. Sellar la caja con cinta adherente y entregar a delivery.
