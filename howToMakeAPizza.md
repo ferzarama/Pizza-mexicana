@@ -1,15 +1,15 @@
 
 Cocina
 
-1.Preparar la masa
-2.preparar las verduras sofritas
-   1.pimenton
-   2.cebolla
-   3.aji
-3.sofreir la carne
-4.sasonar todo
-5.ponerla al horno
-6.preparada para empaquetado
+1. Preparar la masa
+2. preparar las verduras sofritas
+   1. pimenton
+   2. cebolla
+   3. aji
+3. sofreir la carne
+4. sasonar todo
+5. ponerla al horno
+6. preparada para empaquetado
 
 Empaquetado de la pizza
 
