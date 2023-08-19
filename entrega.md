@@ -1,4 +1,4 @@
-    Entrega
+Entrega
 selecciona nuestra pizza mexicana
 Agrega extras a tu pedido
 Personaliza tu pedido
